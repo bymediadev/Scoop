@@ -1,2 +1,21 @@
-﻿.env
+# Ignore environment and secrets files
+.env
 .streamlit/secrets.toml
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Logs
+*.log
