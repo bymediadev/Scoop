@@ -1,4 +1,4 @@
-# Scoop: Podcast Guest Research Tool
+# Scoop: Podcast Guest & Topic Research Tool
 
 Scoop is a Streamlit app designed to help podcasters research and curate potential guests quickly and efficiently.
 
